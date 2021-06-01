@@ -1,2 +1,2 @@
 # Projetos-Generetion
-Aulas desenvolvidas no curso da Generetion
+Aulas e projetos desenvolvidos no curso da Generetion
